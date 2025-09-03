@@ -1,4 +1,4 @@
-package cube;
+package tetrisobj;
 
 import java.awt.*;
 

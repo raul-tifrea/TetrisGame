@@ -1,7 +1,7 @@
-package cube;
+package tetrisobj;
 
-import Main.KeyHandler;
-import Main.PlayManager;
+import main.KeyHandler;
+import main.PlayManager;
 
 import java.awt.*;
 

@@ -1,15 +1,13 @@
-package Main;
+package main;
 
-import cube.*;
-import cube.Object;
+import tetrisobj.*;
+import tetrisobj.Object;
 
 import java.awt.*;
 import java.awt.font.FontRenderContext;
 import java.awt.font.GlyphVector;
 import java.util.ArrayList;
 import java.util.Random;
-
-import static java.awt.Color.BLACK;
 
 public class PlayManager {
 //block size 30px
